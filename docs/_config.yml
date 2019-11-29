@@ -1,0 +1,31 @@
+# SEO related
+
+title: "Perfide — High Performance IDE"
+twitter: "@hexalang"
+author: "PeyTy"
+description: "Perfide is a high performance IDE for developers"
+image: "https://hexalang.github.io/logo.png"
+url: "https://hexalang.github.io"
+theme-color: "#66ccff"
+collections:
+  book:
+    output: true
+  blog:
+    output: true
+social:
+  name: Perfide — High Performance IDE
+  links:
+    - https://twitter.com/hexalang
+    - https://github.com/hexalang/perfide
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+   - jemoji
+   - jekyll-seo-tag
+   - jekyll-sitemap
+kramdown:
+  autolink: true
+  input: GFM
+  syntax_highlighter: rouge

@@ -1,4 +1,5 @@
 # perfide
+
 High Performance IDE (probably)
 
 Concept is to make *60 FPS* scrollable IDE with a design of Sublime and power of VSCode
@@ -9,3 +10,4 @@ Concept is to make *60 FPS* scrollable IDE with a design of Sublime and power of
 - [ ] Make a WebGL text renderer
 - [ ] Make simple GUI
 - [ ] Make it useful at least as notepad.exe
+- [ ] Port to Hexa
